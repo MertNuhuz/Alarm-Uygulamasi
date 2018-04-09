@@ -1,6 +1,6 @@
 ﻿# Alarm Uygulaması
 Çalışmalarını kısa aralıklara bölmek için kullanabilecek bir alarm uygulaması.
-![uygulamanın örnek resimi](/alarm.png)
+![alarm](https://user-images.githubusercontent.com/11426437/38527650-856820b2-3c64-11e8-92bb-c48377134ea2.PNG)
 
 ## Açıklama
 Bilgisayar başında geçirdiğim vakitler artıkça sağlık problemleri de baş göstermeye başladı. Bunun için, uzun süreli oturmalara ara verip, daha fazla ara vermeye başlamaya karar verdim. İstediğim tarzda bir uygulama da bulamayınca kendim yazdım. 
